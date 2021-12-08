@@ -3,7 +3,8 @@ public class Animals {
 
     }
 
-}
+
+
 class herbivore extends  Animals{
 
 }
@@ -27,5 +28,8 @@ class fox extends carnovorous{
 
 }
 class shark extends carnovorous{
+}
+
+Object[]pond = new Object[2];
 
 }
